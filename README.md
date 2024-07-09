@@ -6,3 +6,6 @@
 开源下载地址linux.007idc.cn/linux.sh
 
 使用方法 将文件上传到自己的服务器 curl -O http://域名/linux.sh && chmod +x linux.sh && ./linux.sh
+
+我们的官网地址:www.007idc.cn
+接开发定制-有需求随时联系我们
